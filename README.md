@@ -28,3 +28,7 @@ yarn android
 ```
 
 2. **react-native-vector-icons** is a library which brings icon libraries such as Feather, FontAwesome, MaterialIcons, etc.
+
+
+https://user-images.githubusercontent.com/53280610/185812100-fde5db1c-6a14-4cf6-ab78-dfd215275c8e.mp4
+
