@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "assignment-1-rasitcolakel",
+    "slug": "assignment-1-rasitcolakel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "assignment-1-rasitcolakel"
+}
